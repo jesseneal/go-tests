@@ -1,0 +1,1 @@
+[![Go Test](https://github.com/jesseneal/go-tests/actions/workflows/go-test.yml/badge.svg)](https://github.com/jesseneal/go-tests/actions/workflows/go-test.yml)
